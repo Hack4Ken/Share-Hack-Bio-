@@ -1,0 +1,52 @@
+.namec{
+    color: white;
+    width: 900;
+    position: fixed;
+    bottom: 8px;
+}
+.name{  
+    color: white;
+    width: 1300;
+    text-align: center;
+}
+body{
+    border: 5px;
+    width: 70%;
+    margin: 0px auto;
+    background-image: url("basic-background-i668814robtgmnjk.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    
+}
+th{
+    width: 300px;
+}
+
+#hax{
+    width: 100%;
+    margin: 0px auto;
+}
+
+#haken{
+    width: 40%;
+    margin: 0px auto;
+}
+#lik{
+    
+    width: 20%;
+    margin: 0px auto;
+    
+}
+.tet{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+}
+h3{
+    text-align: center;
+    color: aliceblue;
+}
